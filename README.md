@@ -10,7 +10,7 @@ Student at kalaignarkarunanidhi institute of technology
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 - 
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mannam-ganeshbabu-5a19ab291/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: coder attracts codies.
 
