@@ -1,7 +1,7 @@
 # Mannam.Ganeshbabu
 ## Hi there 👋 It's me Mannam Ganeshbabu
 
-Student at kalaignarkarunanidhi institute of technology
+Student in AI & DS
 <img align="right" width="470" height="290" src="https://media.tenor.com/dzock0eDxV0AAAAM/gofiber-really.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning DATA SCIENCE
