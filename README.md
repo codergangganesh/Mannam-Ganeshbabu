@@ -1,7 +1,7 @@
 # Mannam.Ganeshbabu
 ## Hi there 👋 It's me Mannam Ganeshbabu
 
-Student in AI & DS
+Artificial intelligence and data science student
 <img align="right" width="470" height="290" src="https://media.tenor.com/dzock0eDxV0AAAAM/gofiber-really.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning DATA SCIENCE
