@@ -30,7 +30,7 @@ Hacker Rank   2 hrs 22 mins     ░░░░░░░░░░░░░░░░
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codergangganesh&show_icons=true&locale=en" alt="codergangganesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codergangganesh&" alt="codergangganesh" /></p>
+
 
 
 ### I code in
